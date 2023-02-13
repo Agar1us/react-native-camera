@@ -15,6 +15,9 @@ You can support the development of VisionCamera by [sponsoring **@mrousavy** on 
 > You can find the old code of react-native-camera [here](https://github.com/react-native-camera/react-native-camera/tree/master).
 
 > See [this issue](https://github.com/react-native-community/react-native-camera/issues/3000) for more details.
+<<<<<<< HEAD
  Its not changes
-Its sure not changes
+Changes
 Its sure sure not changes
+Other changes
+>>>>>>> branch1
